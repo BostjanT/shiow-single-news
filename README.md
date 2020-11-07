@@ -1,1 +1,1 @@
-# shiow-single-news
+# show-single-news
